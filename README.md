@@ -6,4 +6,6 @@ I'm **Blue** Bishop (@tbishop25). My two questions for the speaker are (1) what 
  
 I'm **Darryl** Terrell jr. (@darryl-ty). I would like to ask the speaker (a)Will students have an extended free trial period or free version of Oracle cloud to use and experiment with? (b) Are there any security testing features or applications within Oracle Cloud?
 ^Terrell - Archer High School.
-My view of the Oracle presentation last Thursday - I believe that Mr. Ram's presentation of Oracle Cloud was phenomenal, hoever, I would have loved to hear more about the different security measures they have in place to secure their customers in the cloud.
+My view of the Oracle presentation last Thursday - I believe that Mr. Ram's presentation of Oracle Cloud was phenomenal, hoever, I would have loved to hear more about the different security measures they have in place to secure their customers in the cloud. Security will definitely play an important role as we advance in technology.
+
+I'm **Robert** (@DanielsRT). I'll ask the speaker: (a) Does Oracle use in-house hardware to host cloud services and (b) Does Oracle have any plans in investing in its own server-hosting hardware.
