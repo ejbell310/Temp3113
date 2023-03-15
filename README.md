@@ -8,5 +8,5 @@ I'm **Darryl** Terrell jr. (@darryl-ty). I would like to ask the speaker (a)Will
 ^Terrell - Archer High School.
 My view of the Oracle presentation last Thursday - I believe that Mr. Ram's presentation of Oracle Cloud was phenomenal, hoever, I would have loved to hear more about the different security measures they have in place to secure their customers in the cloud. That's nice Darryl!
 
-I'm **Ghefua** Yembu (@gyembu). My two questions for the speaker are (1) what is moblie app developement about and (2) how does Oracle Cloud work? 
+I'm **Ghefua** Yembu (@gyembu). My two questions for the speaker are (1) what is moblie app developement about and (2) how does Oracle Cloud work
 
