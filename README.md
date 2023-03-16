@@ -10,12 +10,16 @@ I'm **Purple** Terrell jr. (@darryl-ty). I would like to ask the speaker (a)Will
 
 My view of the Oracle presentation last Thursday - I believe that Mr. Ram's presentation of Oracle Cloud was phenomenal, hoever, I would have loved to hear more about the different security measures they have in place to secure their customers in the cloud. That's nice Darryl!
 
-I'm **Yellow** **Green** (@gyembu). My two questions for the speaker are (1) what is moblie app developement about and (2) how does Oracle Cloud work -Carrington: I also had similar inquiries of wondering how Oracle Cloud works.
+I'm **Yellow** **Green** (@gyembu). My two questions for the speaker are (1) what is moblie app developement about and (2) how does Oracle Cloud work -Carrington: I also had similar inquiries of wondering how Oracle Cloud works. Yellow is a great color, but I prefer gold.
 
 
 My view of the Oracle presentation last Thursday - I believe that Mr. Ram's presentation of Oracle Cloud was phenomenal, hoever, I would have loved to hear more about the different security measures they have in place to secure their customers in the cloud.
 I also agree that Mr. Ram's presentation was phenomenal - Tia
 
-I'm Carrington (@carr1234). My two questions for the speaker are (1) what are other IDEs can you program and develop mobile apps? and (2) how does a Senior student with little professional experience go about making themselves a good candidate to be hired at Oracle?
+I'm **Black** (@carr1234). My two questions for the speaker are (1) what are other IDEs can you program and develop mobile apps? and (2) how does a Senior student with little professional experience go about making themselves a good candidate to be hired at Oracle?
 ^ Body - White Station High School
 I thought that Mr. Ram presentation was significant and beneficial to be able to be a part of and listen to. I felt that he was very engaging and I liked how he encouraged us to ask questions and garner our perspectives as students. He tried his best describe mobile app concepts as clear as possible and pushed us to seek careers in this field if we are interested.
+
+I'm **Evan** Bell (@ejbell310), and I attended Ramsay High School. Because the flyer mentions mobile app development and Oracle Cloud, I'll ask the guest speaker: (a) how would I, as a student, go about getting experience in mobile app development and (b) what type of mobile apps does Oracle Cloud handle, if any.
+
+I enjoyed the presentation greatly because it introduced us a realistic outlook on the world of computer science. At the very beginning of the presentation, the presenter stated "the number one goal is to really be of some value and the value is being measured in terms of building applications." That statement kicked my brain into overdrive because being a senior, the real world is fast approaching. Throughout the presentation, we were introduced to the aspects of cloud computing, oracle cloud infrastructure, and thet state of enterprise apps today.
