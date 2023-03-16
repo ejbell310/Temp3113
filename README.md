@@ -12,6 +12,9 @@ My view of the Oracle presentation last Thursday - I believe that Mr. Ram's pres
 
 I'm **Yellow** **Green** (@gyembu). My two questions for the speaker are (1) what is moblie app developement about and (2) how does Oracle Cloud work -Carrington: I also had similar inquiries of wondering how Oracle Cloud works. Yellow is a great color, but I prefer gold.
 
+Yembu , Presbyterian comprehensive highschool, Buea, Cameroon
+
+I think Mr. Ram's presentation was insightful though I was not very familiar with the topic. He embedded other vidoe presentations which was helpful to an extent. I look foward to familiarizing myself with the conepts of his presentation.
 
 My view of the Oracle presentation last Thursday - I believe that Mr. Ram's presentation of Oracle Cloud was phenomenal, hoever, I would have loved to hear more about the different security measures they have in place to secure their customers in the cloud.
 I also agree that Mr. Ram's presentation was phenomenal - Tia
